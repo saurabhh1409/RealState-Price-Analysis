@@ -1,0 +1,8 @@
+pandas
+numpy
+matplotlib
+streamlit
+wordcloud
+ast
+pickle
+bs4
