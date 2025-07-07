@@ -7,3 +7,5 @@ ast
 pickle
 bs4
 plotly
+pickle
+cosine_similarity
