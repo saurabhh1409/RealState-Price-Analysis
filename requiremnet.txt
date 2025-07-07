@@ -6,3 +6,4 @@ wordcloud
 ast
 pickle
 bs4
+plotly
