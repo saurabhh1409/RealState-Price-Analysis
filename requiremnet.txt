@@ -3,8 +3,6 @@ numpy
 matplotlib
 streamlit
 wordcloud
-ast
-pickle
-bs4
+beautifulsoup4
 plotly
 scikit-learn
